@@ -1,0 +1,55 @@
+
+.sectionTodo{
+    margin-top: 30px;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+  }
+  
+  .sectionTodo input {
+  height: 30px;
+  border: 1px solid green;
+  margin-left: 10px;
+  }
+  
+  .sectionTodo label{
+    margin-left: 50px;
+    
+  }
+  .sectionTodo ol{
+    margin-left: 50px;
+    
+  }
+  
+  
+  /* button{
+    height: 40px;
+    margin-left: 5px;
+  } */
+  
+  .add{
+    height: 34px;
+    background-color: rgb(71, 236, 71);
+  
+  }
+  
+  .delete{
+    background-color: rgb(190, 60, 60);
+    margin-left: 5px;
+  
+  }
+  
+  .edit{
+    background-color: green;
+    margin-left: 15px;
+  
+  }
+  
+  .delall{
+    height: 34px;
+    background-color: rgb(248, 0, 0)
+  }
+  
+  
